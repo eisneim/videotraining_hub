@@ -1,0 +1,4 @@
+mala >= 0.1.0
+Maga >= 3.0.0
+scrapy >= 1.4.0
+pymongo
